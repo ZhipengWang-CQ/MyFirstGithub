@@ -17,6 +17,8 @@ struct appbuffer
 	unsigned int value;//修改后寄存器的值
 };
 
+//my=a
+
 int main(int argc, char *argv[])
 {
 	int fd;
